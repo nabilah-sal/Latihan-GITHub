@@ -5,4 +5,4 @@ Tahapan belajar GitHub:
 4. Belajar Merge
 5. Belajar Confict
 6. Belajar Pull
-7. Belajar Tools
+7. Belajar Push
